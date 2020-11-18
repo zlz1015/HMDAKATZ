@@ -66,5 +66,3 @@ HMDAKATZ is one novel computational model, which utilizes KATZ to identify poten
 4.5 positiontooverallauc.m: function of calculating the AUC value; 
 
 All files of Data and Code should be stored in the same folder to run HMDAKATZ.
-
-Predict HMDA based on chemical structures and KATZ measure
