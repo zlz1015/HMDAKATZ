@@ -10,11 +10,14 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 You should have received a copy of the GNU General Public License along with this program; if not, see <http://www.gnu.org/licenses/>.
 
 Guihua Duan(duangh@mail.csu.edu.cn),Lingzhi Zhu(lz_zhu@csu.edu.cn)
-School of Information Science and Engineering
-Central South University
-ChangSha
-CHINA, 410083
 
+School of Information Science and Engineering
+
+Central South University
+
+ChangSha
+
+CHINA, 410083
 
 Prediction of microbe-drug associations based on chemical structures and KATZ measure
 =================
