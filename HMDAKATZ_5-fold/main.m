@@ -1,5 +1,5 @@
 clear;
-for cv=1:10
+for cv=1:100
     %getParameters();
     HMDAKATZ_5CV(1,1,0.1,2)
     overallauc(cv)=positiontooverallauc();
